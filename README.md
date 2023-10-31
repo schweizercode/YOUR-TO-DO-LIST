@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+**Todo List App**
+This is a simple Todo List application built using JavaScript, HTML, and CSS. With this app, you can create, edit, and delete tasks to manage your daily activities effectively.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Features**
+**Add Tasks**: You can add tasks to the list by typing the task in the input field and clicking the "Add" button.
 
-## Recommended IDE Setup
+**Edit Tasks**: Double-click on a task to edit its content. Click outside the task or press Enter to save the changes.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Mark as Done:** You can mark a task as done by clicking on the checkbox next to the task.
+
+**Delete Tasks:** To delete a task, click on the trash bin icon next to the task.
+
+**Responsive Design: **The app is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
